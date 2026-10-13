@@ -1,0 +1,6 @@
+.venv/
+models/
+saved/
+temp/
+cube.vtk/
+elasticity/
